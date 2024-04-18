@@ -9,11 +9,14 @@
 - Encrypt the collected passwords with GPG, upload them on Github with a minimalist readme and send me your public key. 
 
 ### Century 0
-``
+```
 Use Putty to connect by SSH : 
+
 login : century1 | pass : century1
+
 century1@century.underthewire.tech
-``
+```
+
 ### Century 1
 ### Century 2
 ### Century 3
