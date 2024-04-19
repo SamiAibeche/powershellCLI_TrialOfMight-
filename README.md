@@ -16,20 +16,4 @@ century1@century.underthewire.tech
 login : century1 | pass : century1
 ```
 
-### Century 1
-### Century 2
-### Century 3
-### Century 4
-### Century 5
-### Century 6
-### Century 7
-### Century 8
-### Century 9
-### Century 10
-### Century 11
-### Century 12
-### Century 13
-### Century 14
-
-
 - #### Encrypted answers are available (not for everyone !) on : [Encrypted datas](TrialOfMight.txt.asc)
